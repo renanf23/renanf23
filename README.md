@@ -1,9 +1,8 @@
 ## Oi!!! Eu sou o Renan Ferreira
 
 - 🔭 Procurando um trabalho com front-end 
-- 🌱 Estou estudando React JS
+- 🌱 Estou estudando React Js
 - 📫 Contate-me: renanferreira5248@gmail.com
-- 😄 Pronouns: ele/dele
 
 <div align="center">
   <a href="https://renanf23.github.io/html-css/meus_projetos/todos_os_projetos/">
